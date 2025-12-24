@@ -1,4 +1,24 @@
 {
+    "config": {
+        "show_intro": true,
+        "intro_screens": [
+            {
+                "title": "နည်းပညာသတင်းများ",
+                "description": "iOS, Android, Windows, AI စတဲ့ နည်းပညာသတင်းအသစ်များကို မြန်မာလို ဖတ်ရှုနိုင်ပါတယ်။",
+                "icon": "article"
+            },
+            {
+                "title": "လွယ်ကူသော အသုံးပြုမှု",
+                "description": "TikTok ပုံစံ အပေါ်အောက် ဆွဲပြီး သတင်းတွေကို လွယ်ကူစွာ ကြည့်ရှုနိုင်ပါတယ်။",
+                "icon": "swipe"
+            },
+            {
+                "title": "မူရင်းအရင်းအမြစ်များ",
+                "description": "သတင်းအရင်းအမြစ် website များသို့ တိုက်ရိုက် ဝင်ရောက်ဖတ်ရှုနိုင်ပါတယ်။",
+                "icon": "link"
+            }
+        ]
+    },
     "status": "success",
     "data": {
         "news": [
