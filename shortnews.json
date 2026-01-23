@@ -23,6 +23,116 @@
     "data": {
         "news": [
             {
+                "id": "news_053",
+                "title": "ChatGPT-5 ကို OpenAI က တရားဝင် ကြေညာ",
+                "summary": "OpenAI က GPT-5 model အသစ်ကို တရားဝင် ကြေညာလိုက်ပါတယ်။ ဒီ model ဟာ reasoning ability မှာ သိသိသာသာ တိုးတက်လာပြီး real-time video understanding လည်း ပါဝင်လာပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+                "created_at": "2026-01-23T08:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "openai",
+                    "chatgpt",
+                    "ai",
+                    "gpt5"
+                ],
+                "sources": [
+                    {
+                        "name": "OpenAI Blog",
+                        "url": "https://openai.com/blog",
+                        "icon": "https://openai.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_052",
+                "title": "Samsung Galaxy S26 Ultra တရားဝင် မိတ်ဆက်",
+                "summary": "Samsung က Galaxy S26 Ultra ကို Snapdragon 8 Gen 5 processor နဲ့ 200MP camera system ပါဝင်တဲ့အပြင် Galaxy AI features အသစ်တွေနဲ့အတူ တရားဝင် မိတ်ဆက်လိုက်ပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800",
+                "created_at": "2026-01-23T06:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "samsung",
+                    "galaxy",
+                    "android",
+                    "smartphone"
+                ],
+                "sources": [
+                    {
+                        "name": "Samsung Newsroom",
+                        "url": "https://news.samsung.com",
+                        "icon": "https://www.samsung.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_051",
+                "title": "iOS 19.3 Beta ထွက်ရှိ",
+                "summary": "Apple က iOS 19.3 beta version ကို developers တွေအတွက် ထုတ်ပေးလိုက်ပါတယ်။ ဒီ update မှာ Apple Intelligence အတွက် features အသစ်တွေနဲ့ battery optimization ပိုကောင်းလာပါတယ်။",
+                "category": "ios",
+                "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800",
+                "created_at": "2026-01-22T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "apple",
+                    "ios",
+                    "beta",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Apple Developer",
+                        "url": "https://developer.apple.com",
+                        "icon": "https://www.apple.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_050",
+                "title": "NVIDIA RTX 5090 Benchmark Results",
+                "summary": "NVIDIA RTX 5090 ရဲ့ benchmark results တွေ ပေါက်ကြားလာပါတယ်။ RTX 4090 ထက် gaming performance မှာ 70% ပိုမြန်ပြီး AI workloads မှာ 2x ပိုကောင်းတယ်လို့ သိရပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=800",
+                "created_at": "2026-01-22T12:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "nvidia",
+                    "rtx5090",
+                    "gpu",
+                    "gaming"
+                ],
+                "sources": [
+                    {
+                        "name": "Tom's Hardware",
+                        "url": "https://tomshardware.com",
+                        "icon": "https://www.tomshardware.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_049",
+                "title": "Google Pixel 10 Pro Specs ပေါက်ကြား",
+                "summary": "Google Pixel 10 Pro မှာ Tensor G5 chip နဲ့ 50MP triple camera system ပါဝင်လာမယ်လို့ reliable sources တွေက ပြောကြားပါတယ်။ ဒီဖုန်းဟာ on-device AI processing မှာ ထိပ်ဆုံးဖြစ်လာမှာပါ။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
+                "created_at": "2026-01-21T14:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "google",
+                    "pixel",
+                    "android",
+                    "leak"
+                ],
+                "sources": [
+                    {
+                        "name": "9to5Google",
+                        "url": "https://9to5google.com",
+                        "icon": "https://9to5google.com/favicon.ico"
+                    }
+                ]
+            },
+            {
                 "id": "news_048",
                 "title": "Android 16 Dev Preview ထွက်ရှိ",
                 "summary": "Google က Android 16 ရဲ့ ပထမဆုံး Developer Preview ကို ထုတ်ပေးလိုက်ပါတယ်။ ဒီ version မှာ multi-tasking experience ကို သိသိသာသာ ပြောင်းလဲထားပါတယ်။",
