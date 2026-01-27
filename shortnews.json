@@ -23,6 +23,182 @@
     "data": {
         "news": [
             {
+                "id": "news_061",
+                "title": "Google Gemini 2.0 Ultra ကြေညာ",
+                "summary": "Google က Gemini 2.0 Ultra model ကို တရားဝင် မိတ်ဆက်လိုက်ပါတယ်။ ဒီ model ဟာ multimodal reasoning မှာ GPT-5 ကို ယှဉ်ပြိုင်နိုင်ပြီး Google Search နဲ့ YouTube မှာ integrate လုပ်ထားပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+                "created_at": "2026-01-27T10:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "google",
+                    "gemini",
+                    "ai",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Google Blog",
+                        "url": "https://blog.google",
+                        "icon": "https://www.google.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_060",
+                "title": "OnePlus 14 Pro Global Launch",
+                "summary": "OnePlus က OnePlus 14 Pro ကို global market အတွက် တရားဝင် launch လုပ်လိုက်ပါတယ်။ Snapdragon 8 Gen 5 နဲ့ 6000mAh battery ပါဝင်ပြီး 100W fast charging support လုပ်ပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+                "created_at": "2026-01-27T06:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "oneplus",
+                    "android",
+                    "smartphone",
+                    "launch"
+                ],
+                "sources": [
+                    {
+                        "name": "OnePlus",
+                        "url": "https://oneplus.com",
+                        "icon": "https://www.oneplus.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_059",
+                "title": "Windows 12 Preview Build ထွက်ရှိ",
+                "summary": "Microsoft က Windows 12 ရဲ့ ပထမဆုံး preview build ကို Insiders တွေအတွက် ထုတ်ပေးလိုက်ပါတယ်။ AI-powered Start Menu နဲ့ floating taskbar design အသစ် ပါဝင်လာပါတယ်။",
+                "category": "windows",
+                "image": "https://images.unsplash.com/photo-1624571409308-e2d574a24bbd?w=800",
+                "created_at": "2026-01-26T14:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "windows",
+                    "microsoft",
+                    "preview",
+                    "ai"
+                ],
+                "sources": [
+                    {
+                        "name": "Windows Blog",
+                        "url": "https://blogs.windows.com",
+                        "icon": "https://www.microsoft.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_058",
+                "title": "Meta Quest 4 Specs ပေါက်ကြား",
+                "summary": "Meta Quest 4 VR headset ရဲ့ specs တွေ leak ဖြစ်လာပါတယ်။ Snapdragon XR3 chip နဲ့ 4K per eye resolution ပါဝင်မယ်လို့ သိရပြီး mixed reality features တွေ ပိုကောင်းလာမယ်လို့ ဆိုပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=800",
+                "created_at": "2026-01-26T08:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "meta",
+                    "quest",
+                    "vr",
+                    "hardware"
+                ],
+                "sources": [
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_057",
+                "title": "Anthropic Claude 4 Beta စတင်",
+                "summary": "Anthropic က Claude 4 model ရဲ့ beta version ကို စတင်လိုက်ပါတယ်။ ဒီ model ဟာ coding ability မှာ အထူးတိုးတက်လာပြီး 200K context window ပါဝင်ပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+                "created_at": "2026-01-25T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "anthropic",
+                    "claude",
+                    "ai",
+                    "beta"
+                ],
+                "sources": [
+                    {
+                        "name": "Anthropic",
+                        "url": "https://anthropic.com",
+                        "icon": "https://anthropic.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_056",
+                "title": "Apple MacBook Air M4 ကြေညာ",
+                "summary": "Apple က M4 chip ပါဝင်တဲ့ MacBook Air အသစ်ကို ကြေညာလိုက်ပါတယ်။ ယခင် M3 version ထက် 40% ပိုမြန်ပြီး battery life 22 နာရီအထိ ကြာရှည်ခံပါတယ်။",
+                "category": "ios",
+                "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+                "created_at": "2026-01-25T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "apple",
+                    "macbook",
+                    "m4",
+                    "laptop"
+                ],
+                "sources": [
+                    {
+                        "name": "Apple Newsroom",
+                        "url": "https://apple.com/newsroom",
+                        "icon": "https://www.apple.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_055",
+                "title": "YouTube Premium AI Features",
+                "summary": "YouTube က Premium subscribers တွေအတွက် AI-powered features အသစ်တွေ ထည့်သွင်းလိုက်ပါတယ်။ Video summarization နဲ့ smart skip ads feature တွေ ပါဝင်လာပါတယ်။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=800",
+                "created_at": "2026-01-24T12:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "youtube",
+                    "google",
+                    "ai",
+                    "premium"
+                ],
+                "sources": [
+                    {
+                        "name": "YouTube Blog",
+                        "url": "https://blog.youtube",
+                        "icon": "https://www.youtube.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_054",
+                "title": "Xiaomi 15 Ultra Camera Test",
+                "summary": "Xiaomi 15 Ultra ရဲ့ camera performance tests တွေ ထွက်ပေါ်လာပါတယ်။ Leica optics နဲ့ 1-inch sensor ကြောင့် low light photography မှာ iPhone 17 Pro Max ကို ကျော်လွန်သွားတယ်လို့ ဆိုပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
+                "created_at": "2026-01-24T07:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "xiaomi",
+                    "camera",
+                    "android",
+                    "review"
+                ],
+                "sources": [
+                    {
+                        "name": "GSMArena",
+                        "url": "https://gsmarena.com",
+                        "icon": "https://www.gsmarena.com/favicon.ico"
+                    }
+                ]
+            },
+            {
                 "id": "news_053",
                 "title": "ChatGPT-5 ကို OpenAI က တရားဝင် ကြေညာ",
                 "summary": "OpenAI က GPT-5 model အသစ်ကို တရားဝင် ကြေညာလိုက်ပါတယ်။ ဒီ model ဟာ reasoning ability မှာ သိသိသာသာ တိုးတက်လာပြီး real-time video understanding လည်း ပါဝင်လာပါတယ်။",
