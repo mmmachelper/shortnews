@@ -38,9 +38,9 @@
                 ],
                 "sources": [
                     {
-                        "name": "Google Blog",
-                        "url": "https://blog.google",
-                        "icon": "https://www.google.com/favicon.ico"
+                        "name": "Telegram သို့ဆက်သွယ်ရန်",
+                        "url": "https://t.me/m9lucky_bot",
+                        "icon": "https://web.telegram.org/a/favicon.ico"
                     }
                 ]
             },
