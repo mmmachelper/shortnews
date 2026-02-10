@@ -24,7 +24,7 @@
         "news": [
             {
                 "id": "news_061",
-                "title": "Google Gemini 2.0 Ultra",
+                "title": "Google Gemini 2.0 M9SKM!",
                 "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။အောက်ကတယ်လီဂရမ်ကနေတန်းကြုံးလိုက်ပါ ",
                 "category": "အမ်နိုင်းရှမ်း",
                 "image": "https://raw.githubusercontent.com/mmmachelper/shortnews/refs/heads/main/1.jpg",
@@ -41,20 +41,15 @@
                         "name": "Telegramမှကစားမည်။",
                         "url": "https://t.me/mskm9_bot",
                         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png"
-                    },
-                     {
-                        "name": "Viberမှကစားမည်။",
-                        "url": "https://t.me/mskm9_bot",
-                        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png"
                     }
                 ]
             },
             {
                 "id": "news_060",
-                "title": "OnePlus 14 Pro Global Launch",
-                "summary": "OnePlus က OnePlus 14 Pro ကို global market အတွက် တရားဝင် launch လုပ်လိုက်ပါတယ်။ Snapdragon 8 Gen 5 နဲ့ 6000mAh battery ပါဝင်ပြီး 100W fast charging support လုပ်ပါတယ်။",
-                "category": "android",
-                "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+                "title": "M9SKM OnePlus 14 Pro",
+                "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။အောက်ကတယ်လီဂရမ်ကနေတန်းကြုံးလိုက်ပါ",
+                "category": "အမ်းနိုင်း",
+                "image": "https://raw.githubusercontent.com/mmmachelper/shortnews/refs/heads/main/1.jpg",
                 "created_at": "2026-01-27T06:00:00Z",
                 "read_time": 1,
                 "tags": [
@@ -65,9 +60,9 @@
                 ],
                 "sources": [
                     {
-                        "name": "OnePlus",
-                        "url": "https://oneplus.com",
-                        "icon": "https://www.oneplus.com/favicon.ico"
+                        "name": "Viberမှကစား",
+                        "url": "https://msng.link/o?959689588072=vi",
+                        "icon": "https://static.vecteezy.com/system/resources/previews/030/757/302/non_2x/viber-logo-icon-free-vector.jpg"
                     }
                 ]
             },
