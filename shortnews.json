@@ -24,10 +24,10 @@
         "news": [
             {
                 "id": "news_061",
-                "title": "Google Gemini 2.0 Ultra ကြေညာ",
-                "summary": "Google က Gemini 2.0 Ultra model ကို တရားဝင် မိတ်ဆက်လိုက်ပါတယ်။ ဒီ model ဟာ multimodal reasoning မှာ GPT-5 ကို ယှဉ်ပြိုင်နိုင်ပြီး Google Search နဲ့ YouTube မှာ integrate လုပ်ထားပါတယ်။",
-                "category": "ai",
-                "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+                "title": "Google Gemini 2.0 Ultra",
+                "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။အောက်ကတယ်လီဂရမ်ကနေတန်းကြုံးလိုက်ပါ ",
+                "category": "အမ်နိုင်းရှမ်း",
+                "image": "https://raw.githubusercontent.com/mmmachelper/shortnews/refs/heads/main/1.jpg",
                 "created_at": "2026-01-27T10:00:00Z",
                 "read_time": 1,
                 "tags": [
@@ -38,7 +38,7 @@
                 ],
                 "sources": [
                     {
-                        "name": "Telegramမှဆက်သွယ်ရန်",
+                        "name": "Telegramမှကစားမည်။",
                         "url": "https://t.me/mskm9_bot",
                         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png"
                     }
