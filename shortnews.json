@@ -25,7 +25,7 @@
             {
                 "id": "news_061",
                 "title": "Google Gemini 2.0 M9",
-                "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။အောက်ကတယ်လီဂရမ်ကနေတန်းကစားလိုက်ပါ ",
+                "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။အောက်ကတယ်လီဂရမ်ကနေစတင်လိုက်ပါ ",
                 "category": "အမ်နိုင်းရှမ်း",
                 "image": "https://i.pinimg.com/736x/52/cb/53/52cb53518137ef4e20e6f8df956fa34f.jpg",
                 "created_at": "2026-01-27T10:00:00Z",
@@ -38,12 +38,12 @@
                 ],
                 "sources": [
                     {
-                        "name": "Telegramမှစတင်မည်။",
+                        "name": "တယ်လီဂရမ်မှစတင်မည်။",
                         "url": "https://t.me/mskm9_bot",
                         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png"
                     },
                     {
-                        "name": "Viberမှစတင်မည်။",
+                        "name": "ဘိုက်ဘာမှစတင်မည်။",
                         "url": "https://msng.link/o?959689588072=vi",
                         "icon": "https://static.vecteezy.com/system/resources/previews/030/757/302/non_2x/viber-logo-icon-free-vector.jpg"
                     }
@@ -52,7 +52,7 @@
             {
                 "id": "news_060",
                 "title": "M9 OnePlus 14 Pro",
-                "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။ဘိုက်ဘာကနေတန်းကစားလိုက်ပါ",
+                "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။ဘိုက်ဘာကနေတန်းစတင်လိုက်ပါ",
                 "category": "အမ်းနိုင်း",
                 "image": "https://raw.githubusercontent.com/mmmachelper/shortnews/refs/heads/main/1.jpg",
                 "created_at": "2026-01-27T06:00:00Z",
