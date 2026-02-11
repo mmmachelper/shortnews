@@ -90,6 +90,16 @@
                         "name": "Windows Blog",
                         "url": "https://blogs.windows.com",
                         "icon": "https://www.microsoft.com/favicon.ico"
+                    },
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    },
+                    {
+                        "name": "9to5Mac",
+                        "url": "https://9to5mac.com",
+                        "icon": "https://9to5mac.com/favicon.ico"
                     }
                 ]
             },
