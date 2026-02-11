@@ -3,9 +3,9 @@
         "show_intro": true,
         "intro_screens": [
             {
-                "title": "နည်းပညာသတင်း",
-                "description": "iOS, Android, Windows, AI စတဲ့ နည်းပညာသတင်းအသစ်များကို မြန်မာလို ဖတ်ရှုနိုင်ပါတယ်။",
-                "icon": "article"
+                "title": "အမ်နိုင်းသတင်း",
+                "description": "iOS, Android, Windows စတဲ့မည်သည့်ပလပ်ဖောင်းတွင်မဆိုအသုံးပြုနိုင်ပါတယ်။",
+                "icon": "https://i.pinimg.com/736x/a3/fb/3e/a3fb3ec34947ae3dc44f2497045a9f24.jpg"
             },
             {
                 "title": "လွယ်ကူသော အသုံးပြုမှု",
