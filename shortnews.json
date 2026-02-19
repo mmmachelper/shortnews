@@ -22,35 +22,30 @@
     "status": "success",
     "data": {
         "news": [
-           {
-                "id": "news_059",
-                "title": "Windows 12 Preview Build ထွက်ရှိ",
-                "summary": "Microsoft က Windows 12 ရဲ့ ပထမဆုံး preview build ကို Insiders တွေအတွက် ထုတ်ပေးလိုက်ပါတယ်။ AI-powered Start Menu နဲ့ floating taskbar design အသစ် ပါဝင်လာပါတယ်။",
-                "category": "windows",
+            {
+                "id": "news_061",
+                "title": "Google Gemini 2.0 M9",
+                "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။အောက်ကတယ်လီဂရမ်ကနေစတင်လိုက်ပါ ",
+                "category": "အမ်နိုင်းရှမ်း",
                 "image": "https://i.pinimg.com/736x/52/cb/53/52cb53518137ef4e20e6f8df956fa34f.jpg",
-                "created_at": "2026-01-26T14:00:00Z",
+                "created_at": "2026-01-27T10:00:00Z",
                 "read_time": 1,
                 "tags": [
-                    "windows",
-                    "microsoft",
-                    "preview",
-                    "ai"
+                    "google",
+                    "gemini",
+                    "ai",
+                    "update"
                 ],
                 "sources": [
                     {
-                        "name": "Windows Blog",
-                        "url": "https://blogs.windows.com",
-                        "icon": "https://www.microsoft.com/favicon.ico"
+                        "name": "တယ်လီဂရမ်မှစတင်မည်။",
+                        "url": "https://t.me/mskm9_bot",
+                        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png"
                     },
                     {
-                        "name": "The Verge",
-                        "url": "https://theverge.com",
-                        "icon": "https://www.theverge.com/favicon.ico"
-                    },
-                    {
-                        "name": "9to5Mac",
-                        "url": "https://9to5mac.com",
-                        "icon": "https://9to5mac.com/favicon.ico"
+                        "name": "ဘိုက်ဘာမှစတင်မည်။",
+                        "url": "https://msng.link/o?959689588072=vi",
+                        "icon": "https://static.vecteezy.com/system/resources/previews/030/757/302/non_2x/viber-logo-icon-free-vector.jpg"
                     }
                 ]
             },
