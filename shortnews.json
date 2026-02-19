@@ -3,7 +3,7 @@
         "show_intro": true,
         "intro_screens": [
             {
-                "title": "အမ်နိုင်းသတင်း",
+                "title": "အမ်နိုင်း",
                 "description": "iOS, Android, Windows စတဲ့မည်သည့်ပလပ်ဖောင်းတွင်မဆိုအသုံးပြုနိုင်ပါတယ်။",
                 "icon": "https://i.pinimg.com/736x/a3/fb/3e/a3fb3ec34947ae3dc44f2497045a9f24.jpg"
             },
