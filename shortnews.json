@@ -14,7 +14,7 @@
             },
             {
                 "title": "မူရင်းအရင်းအမြစ်များ",
-                "description": "သတင်းအရင်းအမြစ် website များသို့ တိုက်ရိုက် ဝင်ရောက်ဖတ်ရှုနိုင်ပါတယ်။",
+                "description": "သတင်းအရင်းအမြစ် ",
                 "icon": "link"
             }
         ]
@@ -25,7 +25,7 @@
             {
                 "id": "news_061",
                 "title": "Google Gemini 2.0 M9",
-                "summary": " ",
+                "summary": " အမ်နိုင်းရှမ်း",
                 "category": "အမ်နိုင်းရှမ်း",
                 "image": "https://i.pinimg.com/736x/52/cb/53/52cb53518137ef4e20e6f8df956fa34f.jpg",
                 "created_at": "2026-01-27T10:00:00Z",
