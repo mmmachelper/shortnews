@@ -22,28 +22,36 @@
     "status": "success",
     "data": {
         "news": [
-            {
-                 "id": "news_054",
-                "title": "Xiaomi 15 Ultra Camera Test",
-                "summary": "Xiaomi 15 Ultra ရဲ့ camera performance tests တွေ ထွက်ပေါ်လာပါတယ်။ Leica optics နဲ့ 1-inch sensor ကြောင့် low light photography မှာ iPhone 17 Pro Max ကို ကျော်လွန်သွားတယ်လို့ ဆိုပါတယ်။",
-                "category": "android",
-                "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
-                "created_at": "2026-01-24T07:00:00Z",
+              {
+                "id": "news_061",
+                "title": "M9",
+                "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။",
+                "category": "အမ်နိုင်းရှမ်း",
+                "image": "https://i.pinimg.com/736x/52/cb/53/52cb53518137ef4e20e6f8df956fa34f.jpg",
+                "created_at": "2026-01-27T10:00:00Z",
                 "read_time": 1,
                 "tags": [
-                    "xiaomi",
-                    "camera",
-                    "android",
-                    "review"
+                    "google",
+                    "gemini",
+                    "ai",
+                    "update"
                 ],
                 "sources": [
                     {
-                        "name": "GSMArena",
-                        "url": "https://gsmarena.com",
-                        "icon": "https://www.gsmarena.com/favicon.ico"
+                        "name": "တယ်လီဂရမ်မှစတင်မည်။",
+                        "url": "https://t.me/mskm9_bot",
+                        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png"
+                    },
+                    {
+                        "name": "ဘိုက်ဘာမှစတင်မည်။",
+                        "url": "https://msng.link/o?959689588072=vi",
+                        "icon": "https://static.vecteezy.com/system/resources/previews/030/757/302/non_2x/viber-logo-icon-free-vector.jpg"
                     }
                 ]
             },
+
+
+
             {
                 "id": "news_060",
                 "title": " OnePlus 14 Pro",
