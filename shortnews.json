@@ -24,7 +24,7 @@
         "news": [
               {
                 "id": "news_061",
-                "title": "M9",
+                "title": "M9 ",
                 "summary": "စိတ်ကြိုက် ဝိုင်ပြောင်း ဒိုင်းကိုင် အပိုl00 ရာခိုင်နှုန်းရပါတယ်။",
                 "category": "အမ်နိုင်းရှမ်း",
                 "image": "https://i.pinimg.com/736x/52/cb/53/52cb53518137ef4e20e6f8df956fa34f.jpg",
@@ -39,7 +39,7 @@
                 "sources": [
                     {
                         "name": "တယ်လီဂရမ်မှစတင်မည်။",
-                        "url": "https://t.me/mskm9_bot",
+                        "url": "https://t.me/m9bae_bot",
                         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png"
                     },
                     {
