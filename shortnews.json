@@ -4,7 +4,7 @@
         "intro_screens": [
             {
                 "title": "အမ်နိုင်း",
-                "description": "ဖရီး1၀၀၀နှင့်စတင်ကစားနိုင်ပါသည်။",
+                "description": "စတင်ကစားနိုင်ပါသည်။",
                 "icon": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg"
             },
             {
@@ -25,7 +25,7 @@
               {
                 "id": "news_061",
                 "title": "M9",
-                "summary": "ဖရီး၁၀၀၀နှင့်က၊စားရန်ဘိုက်ဘာ သို့ တယ်လီဂရန်မှစတင်နိုင်ပါသည်။",
+                "summary": "က၊စားရန်ဘိုက်ဘာ သို့ တယ်လီဂရန်မှစတင်နိုင်ပါသည်။",
                 "category": "အမ်နိုင်းရှမ်း",
                 "image": "https://i.pinimg.com/736x/c5/8f/fa/c58ffa9e8a2fec02636bd24ca1d5c492.jpg",
                 "created_at": "2026-01-27T10:00:00Z",
