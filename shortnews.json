@@ -4,7 +4,7 @@
         "intro_screens": [
             {
                 "title": "အမ်နိုင်း",
-                "description": "Free100%စတင်ကစားနိုင်ပါသည်။",
+                "description": "စတင်နိုင်ပါသည်။",
                 "icon": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg"
             },
             {
@@ -22,31 +22,7 @@
     "status": "success",
     "data": {
         "news": [
-              {
-                "id": "news_061",
-                "title": "AD",
-                "summary": "က၊စားရန်Free10000။",
-                "category": "အမ်နိုင်းရှမ်း",
-                "image": "https://i.pinimg.com/736x/c5/8f/fa/c58ffa9e8a2fec02636bd24ca1d5c492.jpg",
-                "created_at": "2026-01-27T10:00:00Z",
-                "read_time": 1,
-                "tags": [
-                    "google",
-                    "gemini",
-                    "ai",
-                    "update"
-                ],
-                "sources": [
-                    {
-                        "name": "Download",
-                        "url": "https://play.google.com/store/apps/details?id=com.buugyi.officialgame&pcampaignid=web_share",
-                        "icon": "https://play-lh.googleusercontent.com/AhHsVnMojW0JwUmcJ0O48s_QdlCEFgA2sMhkIE2V1FkRR00OGU8P6tuAeJNIXlR5qXxjFejXKc1K011n_7Y9=w480-h960-rw"
-                    }
-                ]
-            },
-
-
-
+              
             {
                 "id": "news_060",
                 "title": " OnePlus 14 Pro",
