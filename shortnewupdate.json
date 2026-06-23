@@ -19,14 +19,14 @@
             }
         ],
         "rendering": {
-            "layout_version":    2.0,
-            "header_elevation":  4.0,
-            "content_padding":  16.0,
-            "nav_height":       56.0,
-            "action_radius":    22.0,
-            "source_opacity":    1.0,
-            "badge_margin":      8.0,
-            "meta_line_height":  1.5
+            "layout_version":    0,
+            "header_elevation":  0,
+            "content_padding":  0,
+            "nav_height":       0,
+            "action_radius":    0,
+            "source_opacity":    0,
+            "badge_margin":      0,
+            "meta_line_height":  0
         }
     },
     "status": "success",
