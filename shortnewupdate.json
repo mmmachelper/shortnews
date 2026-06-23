@@ -1,0 +1,1508 @@
+{
+    "config": {
+        "show_intro": true,
+        "intro_screens": [
+            {
+                "title": "M9",
+                "description": "စတင်နိုင်ပါသည်။",
+                "icon": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg"
+            },
+            {
+                "title": "Easy to use",
+                "description": "နံပါတ်တစ်ယုံကြည်စိတ်ချရဆုံးဝန်ဆောင်မှု",
+                "icon": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg"
+            },
+            {
+                "title": "မူရင်းအရင်းအမြစ်များ",
+                "description": "မူလလက်ဟောင်း အမ်နိုင်း",
+                "icon": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg"
+            }
+        ],
+        "rendering": {
+            "layout_version":    2.0,
+            "header_elevation":  4.0,
+            "content_padding":  16.0,
+            "nav_height":       56.0,
+            "action_radius":    22.0,
+            "source_opacity":    1.0,
+            "badge_margin":      8.0,
+            "meta_line_height":  1.5
+        }
+    },
+    "status": "success",
+    "data": {
+        "news": [
+            {
+                "id": "news_061",
+                "title": "AD",
+                "summary": "Free10000။",
+                "category": "M9",
+                "image": "https://i.pinimg.com/736x/b0/7e/c0/b07ec02486345519a6f7cf7c1d89c9ad.jpg",
+                "created_at": "2026-01-27T10:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "google",
+                    "gemini",
+                    "ai",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Download",
+                        "url": "https://play.google.com/store/apps/details?id=com.buugyi.officialgame&pcampaignid=web_share",
+                        "icon": "https://play-lh.googleusercontent.com/AhHsVnMojW0JwUmcJ0O48s_QdlCEFgA2sMhkIE2V1FkRR00OGU8P6tuAeJNIXlR5qXxjFejXKc1K011n_7Y9=w480-h960-rw"
+                    }
+                ]
+            },
+            {
+                "id": "news_060",
+                "title": " OnePlus 14 Pro",
+                "summary": "Windows 12 Preview Build ထွက်ရှိ",
+                "category": "အမ်းနိုင်း",
+                "image": "https://raw.githubusercontent.com/mmmachelper/shortnews/refs/heads/main/1.jpg",
+                "created_at": "2026-01-27T06:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "oneplus",
+                    "android",
+                    "smartphone",
+                    "launch"
+                ],
+                "sources": [
+                    {
+                        "name": " Blog",
+                        "url": "https://blogs.windows.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_059",
+                "title": "Windows 12 Preview Build ထွက်ရှိ",
+                "summary": "Microsoft က Windows 12 ရဲ့ ပထမဆုံး preview build ကို Insiders တွေအတွက် ထုတ်ပေးလိုက်ပါတယ်။ AI-powered Start Menu နဲ့ floating taskbar design အသစ် ပါဝင်လာပါတယ်။",
+                "category": "windows",
+                "image": "https://images.unsplash.com/photo-1624571409308-e2d574a24bbd?w=800",
+                "created_at": "2026-01-26T14:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "windows",
+                    "microsoft",
+                    "preview",
+                    "ai"
+                ],
+                "sources": [
+                    {
+                        "name": "Windows Blog",
+                        "url": "https://blogs.windows.com",
+                        "icon": "https://www.microsoft.com/favicon.ico"
+                    },
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    },
+                    {
+                        "name": "9to5Mac",
+                        "url": "https://9to5mac.com",
+                        "icon": "https://9to5mac.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_058",
+                "title": "Meta Quest 4 Specs ပေါက်ကြား",
+                "summary": "Meta Quest 4 VR headset ရဲ့ specs တွေ leak ဖြစ်လာပါတယ်။ Snapdragon XR3 chip နဲ့ 4K per eye resolution ပါဝင်မယ်လို့ သိရပြီး mixed reality features တွေ ပိုကောင်းလာမယ်လို့ ဆိုပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=800",
+                "created_at": "2026-01-26T08:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "meta",
+                    "quest",
+                    "vr",
+                    "hardware"
+                ],
+                "sources": [
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_057",
+                "title": "Anthropic Claude 4 Beta စတင်",
+                "summary": "Anthropic က Claude 4 model ရဲ့ beta version ကို စတင်လိုက်ပါတယ်။ ဒီ model ဟာ coding ability မှာ အထူးတိုးတက်လာပြီး 200K context window ပါဝင်ပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+                "created_at": "2026-01-25T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "anthropic",
+                    "claude",
+                    "ai",
+                    "beta"
+                ],
+                "sources": [
+                    {
+                        "name": "Anthropic",
+                        "url": "https://anthropic.com",
+                        "icon": "https://anthropic.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_056",
+                "title": "Apple MacBook Air M4 ကြေညာ",
+                "summary": "Apple က M4 chip ပါဝင်တဲ့ MacBook Air အသစ်ကို ကြေညာလိုက်ပါတယ်။ ယခင် M3 version ထက် 40% ပိုမြန်ပြီး battery life 22 နာရီအထိ ကြာရှည်ခံပါတယ်။",
+                "category": "ios",
+                "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+                "created_at": "2026-01-25T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "apple",
+                    "macbook",
+                    "m4",
+                    "laptop"
+                ],
+                "sources": [
+                    {
+                        "name": "Apple Newsroom",
+                        "url": "https://apple.com/newsroom",
+                        "icon": "https://www.apple.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_055",
+                "title": "YouTube Premium AI Features",
+                "summary": "YouTube က Premium subscribers တွေအတွက် AI-powered features အသစ်တွေ ထည့်သွင်းလိုက်ပါတယ်။ Video summarization နဲ့ smart skip ads feature တွေ ပါဝင်လာပါတယ်။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=800",
+                "created_at": "2026-01-24T12:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "youtube",
+                    "google",
+                    "ai",
+                    "premium"
+                ],
+                "sources": [
+                    {
+                        "name": "YouTube Blog",
+                        "url": "https://blog.youtube",
+                        "icon": "https://www.youtube.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_054",
+                "title": "Xiaomi 15 Ultra Camera Test",
+                "summary": "Xiaomi 15 Ultra ရဲ့ camera performance tests တွေ ထွက်ပေါ်လာပါတယ်။ Leica optics နဲ့ 1-inch sensor ကြောင့် low light photography မှာ iPhone 17 Pro Max ကို ကျော်လွန်သွားတယ်လို့ ဆိုပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
+                "created_at": "2026-01-24T07:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "xiaomi",
+                    "camera",
+                    "android",
+                    "review"
+                ],
+                "sources": [
+                    {
+                        "name": "GSMArena",
+                        "url": "https://gsmarena.com",
+                        "icon": "https://www.gsmarena.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_053",
+                "title": "ChatGPT-5 ကို OpenAI က တရားဝင် ကြေညာ",
+                "summary": "OpenAI က GPT-5 model အသစ်ကို တရားဝင် ကြေညာလိုက်ပါတယ်။ ဒီ model ဟာ reasoning ability မှာ သိသိသာသာ တိုးတက်လာပြီး real-time video understanding လည်း ပါဝင်လာပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+                "created_at": "2026-01-23T08:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "openai",
+                    "chatgpt",
+                    "ai",
+                    "gpt5"
+                ],
+                "sources": [
+                    {
+                        "name": "OpenAI Blog",
+                        "url": "https://openai.com/blog",
+                        "icon": "https://openai.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_052",
+                "title": "Samsung Galaxy S26 Ultra တရားဝင် မိတ်ဆက်",
+                "summary": "Samsung က Galaxy S26 Ultra ကို Snapdragon 8 Gen 5 processor နဲ့ 200MP camera system ပါဝင်တဲ့အပြင် Galaxy AI features အသစ်တွေနဲ့အတူ တရားဝင် မိတ်ဆက်လိုက်ပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800",
+                "created_at": "2026-01-23T06:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "samsung",
+                    "galaxy",
+                    "android",
+                    "smartphone"
+                ],
+                "sources": [
+                    {
+                        "name": "Samsung Newsroom",
+                        "url": "https://news.samsung.com",
+                        "icon": "https://www.samsung.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_051",
+                "title": "iOS 19.3 Beta ထွက်ရှိ",
+                "summary": "Apple က iOS 19.3 beta version ကို developers တွေအတွက် ထုတ်ပေးလိုက်ပါတယ်။ ဒီ update မှာ Apple Intelligence အတွက် features အသစ်တွေနဲ့ battery optimization ပိုကောင်းလာပါတယ်။",
+                "category": "ios",
+                "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800",
+                "created_at": "2026-01-22T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "apple",
+                    "ios",
+                    "beta",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Apple Developer",
+                        "url": "https://developer.apple.com",
+                        "icon": "https://www.apple.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_050",
+                "title": "NVIDIA RTX 5090 Benchmark Results",
+                "summary": "NVIDIA RTX 5090 ရဲ့ benchmark results တွေ ပေါက်ကြားလာပါတယ်။ RTX 4090 ထက် gaming performance မှာ 70% ပိုမြန်ပြီး AI workloads မှာ 2x ပိုကောင်းတယ်လို့ သိရပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=800",
+                "created_at": "2026-01-22T12:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "nvidia",
+                    "rtx5090",
+                    "gpu",
+                    "gaming"
+                ],
+                "sources": [
+                    {
+                        "name": "Tom's Hardware",
+                        "url": "https://tomshardware.com",
+                        "icon": "https://www.tomshardware.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_049",
+                "title": "Google Pixel 10 Pro Specs ပေါက်ကြား",
+                "summary": "Google Pixel 10 Pro မှာ Tensor G5 chip နဲ့ 50MP triple camera system ပါဝင်လာမယ်လို့ reliable sources တွေက ပြောကြားပါတယ်။ ဒီဖုန်းဟာ on-device AI processing မှာ ထိပ်ဆုံးဖြစ်လာမှာပါ။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800",
+                "created_at": "2026-01-21T14:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "google",
+                    "pixel",
+                    "android",
+                    "leak"
+                ],
+                "sources": [
+                    {
+                        "name": "9to5Google",
+                        "url": "https://9to5google.com",
+                        "icon": "https://9to5google.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_048",
+                "title": "Android 16 Dev Preview ထွက်ရှိ",
+                "summary": "Google က Android 16 ရဲ့ ပထမဆုံး Developer Preview ကို ထုတ်ပေးလိုက်ပါတယ်။ ဒီ version မှာ multi-tasking experience ကို သိသိသာသာ ပြောင်းလဲထားပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=800",
+                "created_at": "2026-01-19T14:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "android",
+                    "google",
+                    "developer",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Android Blog",
+                        "url": "https://android-developers.googleblog.com",
+                        "icon": "https://www.android.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_047",
+                "title": "Apple Intelligence နယ်ပယ်ချဲ့ထွင်မှု",
+                "summary": "Apple Intelligence ကို နောက်ထပ် ဘာသာစကား ၁၀ မျိုးကျော်နဲ့ ထပ်မံ အသုံးပြုနိုင်တော့မှာ ဖြစ်ကြောင်း Apple က ကြေညာလိုက်ပါတယ်။",
+                "category": "ios",
+                "image": "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=800",
+                "created_at": "2026-01-19T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "apple",
+                    "ai",
+                    "ios",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Apple Newsroom",
+                        "url": "https://apple.com/newsroom",
+                        "icon": "https://www.apple.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_046",
+                "title": "Midjourney v7 ထွက်ရှိ",
+                "summary": "Midjourney version 7 မှာ အသေးစိတ်ကျတဲ့ ပုံရိပ်တွေနဲ့ လက်ချောင်းတွေလိုမျိုး ခက်ခဲတဲ့ နေရာတွေကို ပိုမိုတိကျစွာ ရေးဆွဲပေးနိုင်တဲ့ features တွေ ပါဝင်လာပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1675271591211-126ad94e495d?w=800",
+                "created_at": "2026-01-18T18:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "midjourney",
+                    "ai",
+                    "art",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Midjourney",
+                        "url": "https://midjourney.com",
+                        "icon": "https://www.midjourney.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_045",
+                "title": "OpenAI Sora Public Beta",
+                "summary": "OpenAI ရဲ့ text-to-video model ဖြစ်တဲ့ Sora ကို အများပြည်သူ စမ်းသပ်နိုင်ဖို့ beta release ထုတ်ပေးလိုက်ပါတယ်။ အခုအခါမှာ မိနစ်ပိုင်းအတွင်း အရည်အသွေးမြင့် video တွေ ဖန်တီးနိုင်ပြီဖြစ်ပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1675271591211-126ad94e495d?w=800",
+                "created_at": "2026-01-18T10:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "openai",
+                    "sora",
+                    "ai",
+                    "video"
+                ],
+                "sources": [
+                    {
+                        "name": "OpenAI",
+                        "url": "https://openai.com/blog",
+                        "icon": "https://openai.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_044",
+                "title": "Steam Deck 2 Specs Leak",
+                "summary": "Steam Deck 2 မှာ OLED screen အပြင် battery သက်တမ်းနဲ့ gaming performance ကို သိသိသာသာ မြှင့်တင်ပေးမယ့် APU အသစ် ပါဝင်လာမယ်လို့ သိရပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=800",
+                "created_at": "2026-01-17T17:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "steamdeck",
+                    "valve",
+                    "gaming",
+                    "handheld"
+                ],
+                "sources": [
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_043",
+                "title": "Raspberry Pi 6 Rumors",
+                "summary": "Raspberry Pi 6 မှာ ပိုမိုအားကောင်းတဲ့ processor နဲ့ built-in AI accelerator ပါဝင်လာမယ်လို့ သတင်းတွေ ထွက်ပေါ်နေပါတယ်။ ဒါဟာ DIY projects တွေအတွက် အဆင်ပြေစေမှာပါ။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+                "created_at": "2026-01-17T11:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "raspberrypi",
+                    "hardware",
+                    "ai",
+                    "diy"
+                ],
+                "sources": [
+                    {
+                        "name": "Raspberry Pi",
+                        "url": "https://www.raspberrypi.com/news",
+                        "icon": "https://www.raspberrypi.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_042",
+                "title": "TikTok AI Beauty Filters",
+                "summary": "TikTok က AR နဲ့ AI ကို ပေါင်းစပ်ထားတဲ့ beauty filters အသစ်တွေကို မိတ်ဆက်လိုက်ပါတယ်။ ပိုမိုလက်တွေ့ကျတဲ့ ပြောင်းလဲမှုတွေကို ပြုလုပ်ပေးနိုင်မှာပါ။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800",
+                "created_at": "2026-01-16T15:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "tiktok",
+                    "ai",
+                    "filters",
+                    "social"
+                ],
+                "sources": [
+                    {
+                        "name": "TikTok Newsroom",
+                        "url": "https://newsroom.tiktok.com",
+                        "icon": "https://www.tiktok.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_041",
+                "title": "WhatsApp Multi-device 2.0",
+                "summary": "WhatsApp က ဖုန်းမရှိဘဲ သီးခြားသုံးလို့ရတဲ့ multi-device support ကို ပိုမိုမြန်ဆန်အောင်နဲ့ features စုံလင်အောင် အဆင့်မြှင့်တင်လိုက်ပါတယ်။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=800",
+                "created_at": "2026-01-16T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "whatsapp",
+                    "apps",
+                    "update",
+                    "privacy"
+                ],
+                "sources": [
+                    {
+                        "name": "WhatsApp Blog",
+                        "url": "https://blog.whatsapp.com",
+                        "icon": "https://static.whatsapp.net/rsrc.php/v3/yP/r/r_o_c8S3H08.png"
+                    }
+                ]
+            },
+            {
+                "id": "news_040",
+                "title": "Adobe Firefly 3 AI",
+                "summary": "Adobe က Firefly 3 AI model ကို ထုတ်ပေးလိုက်ပါတယ်။ အခုအခါမှာ content creation တွေအတွက် ဓာတ်ပုံတွေကို ပိုမိုလက်တွေ့ကျကျနဲ့ အနုစိပ် generate လုပ်ပေးနိုင်ပြီဖြစ်ပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
+                "created_at": "2026-01-15T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "adobe",
+                    "firefly",
+                    "ai",
+                    "design"
+                ],
+                "sources": [
+                    {
+                        "name": "Adobe Blog",
+                        "url": "https://blog.adobe.com",
+                        "icon": "https://www.adobe.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_039",
+                "title": "Spotify Hi-Fi Launch",
+                "summary": "Spotify က အကြာကြီးစောင့်ခဲ့ရတဲ့ Hi-Fi lossless audio feature ကို အခုအခါမှာ တရားဝင် စတင်လိုက်ပါပြီ။ သီချင်းနားထောင်သူတွေအတွက် အသံအရည်အသွေး အကောင်းဆုံး ရနိုင်မှာပါ။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=800",
+                "created_at": "2026-01-15T10:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "spotify",
+                    "music",
+                    "hifi",
+                    "audio"
+                ],
+                "sources": [
+                    {
+                        "name": "Spotify Newsroom",
+                        "url": "https://newsroom.spotify.com",
+                        "icon": "https://newsroom.spotify.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_038",
+                "title": "NVIDIA DLSS 4.5 ကြေညာ",
+                "summary": "NVIDIA က DLSS 4.5 ကို AI-driven frame generation တွေ ပိုမိုတည်ငြိမ်ပြီး ပုံရိပ်ကြည်လင်ပြတ်သားမှု ပိုကောင်းအောင် အဆင့်မြှင့်တင်လိုက်ပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=800",
+                "created_at": "2026-01-14T18:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "nvidia",
+                    "dlss",
+                    "ai",
+                    "gaming"
+                ],
+                "sources": [
+                    {
+                        "name": "Nvidia",
+                        "url": "https://nvidia.com",
+                        "icon": "https://www.nvidia.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_037",
+                "title": "AMD RX 9000 Series Leak",
+                "summary": "AMD ရဲ့ နောက်ထွက်မယ့် RX 9000 series GPUs တွေဟာ RDNA 4 architecture ကို အခြေခံထားပြီး ray tracing performance မှာ ၂ ဆ ပိုမိုမြန်ဆန်လာမယ်လို့ သတင်းထွက်နေပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=800",
+                "created_at": "2026-01-14T11:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "amd",
+                    "gpu",
+                    "hardware",
+                    "gaming"
+                ],
+                "sources": [
+                    {
+                        "name": "VideoCardz",
+                        "url": "https://videocardz.com",
+                        "icon": "https://videocardz.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_036",
+                "title": "VS Code January Update",
+                "summary": "VS Code version 1.97 မှာ multi-window debugging နဲ့ AI autocomplete ပိုမိုမြန်ဆန်လာတဲ့ features တွေ ပါဝင်လာပါတယ်။ Developer အတွေ့အကြုံကို ပိုမိုကောင်းမွန်စေမှာပါ။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1617042375876-a13e36732a04?w=800",
+                "created_at": "2026-01-13T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "vscode",
+                    "microsoft",
+                    "developer",
+                    "ide"
+                ],
+                "sources": [
+                    {
+                        "name": "VS Code",
+                        "url": "https://code.visualstudio.com",
+                        "icon": "https://code.visualstudio.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_035",
+                "title": "Microsoft 365 Copilot Pro",
+                "summary": "Microsoft က 365 Copilot Pro ကို features အသစ်တွေနဲ့ update ပေးလိုက်ပါတယ်။ Excel နဲ့ PowerPoint ထဲမှာ AI က data တွေကို ပိုမိုကျွမ်းကျင်စွာ analysis လုပ်ပေးနိုင်ပြီဖြစ်ပါတယ်။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=800",
+                "created_at": "2026-01-13T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "microsoft",
+                    "copilot",
+                    "ai",
+                    "office"
+                ],
+                "sources": [
+                    {
+                        "name": "Microsoft Blog",
+                        "url": "https://blogs.microsoft.com",
+                        "icon": "https://www.microsoft.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_034",
+                "title": "iPad Pro OLED Refresh",
+                "summary": "Apple က OLED screen ပါဝင်တဲ့ iPad Pro အသစ်တွေကို ပိုမိုပါးလွှာတဲ့ design နဲ့ ထပ်မံမိတ်ဆက်ဖို့ ပြင်ဆင်နေပါတယ်။ ဒါဟာ display အပိုင်းမှာ အကောင်းဆုံးအတွေ့အကြုံကို ပေးမှာပါ။",
+                "category": "ios",
+                "image": "https://images.unsplash.com/photo-1544244015-0cd4b3ff8f9d?w=800",
+                "created_at": "2026-01-12T15:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "apple",
+                    "ipad",
+                    "oled",
+                    "hardware"
+                ],
+                "sources": [
+                    {
+                        "name": "9to5Mac",
+                        "url": "https://9to5mac.com",
+                        "icon": "https://9to5mac.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_033",
+                "title": "iPhone 18 Camera Rumors များ",
+                "summary": "iPhone 18 မှာ ပိုမိုကြီးမားတဲ့ image sensor နဲ့ variable aperture ပါဝင်လာမယ်လို့ ကျွမ်းကျင်သူတွေက ခန့်မှန်းနေကြပါတယ်။ ဒါဟာ ညဘက်ရိုက်ကူးမှုတွေကို ပိုမိုကောင်းမွန်စေမှာပါ။",
+                "category": "ios",
+                "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba3f21?w=800",
+                "created_at": "2026-01-12T08:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "apple",
+                    "iphone",
+                    "camera",
+                    "rumor"
+                ],
+                "sources": [
+                    {
+                        "name": "MacRumors",
+                        "url": "https://macrumors.com",
+                        "icon": "https://www.macrumors.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_032",
+                "title": "Chrome Energy Saver Update",
+                "summary": "Google Chrome မှာ battery သက်တမ်းကို ပိုမိုကြာရှည်ခံစေမယ့် Energy Saver mode အသစ်ကို update ပေးလိုက်ပါတယ်။ Background tabs တွေရဲ့ power အသုံးပြုမှုကို ပိုမိုထိရောက်စွာ စီမံပေးမှာပါ။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1585241645927-c7a8e5840c42?w=800",
+                "created_at": "2026-01-11T19:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "chrome",
+                    "google",
+                    "browser",
+                    "battery"
+                ],
+                "sources": [
+                    {
+                        "name": "Google Chrome",
+                        "url": "https://blog.google/products/chrome",
+                        "icon": "https://www.google.com/chrome/static/images/favicons/favicon-32x32.png"
+                    }
+                ]
+            },
+            {
+                "id": "news_031",
+                "title": "Telegram Stories အားလုံးအတွက် ရပြီ",
+                "summary": "Telegram က Stories feature ကို အခမဲ့အသုံးပြုသူတွေ အားလုံးအတွက် တရားဝင် ဖွင့်ပေးလိုက်ပါပြီ။ ယခင်က Premium သမားတွေပဲ ရခဲ့တာဖြစ်ပါတယ်။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=800",
+                "created_at": "2026-01-11T12:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "telegram",
+                    "stories",
+                    "social",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Telegram Blog",
+                        "url": "https://telegram.org/blog",
+                        "icon": "https://telegram.org/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_030",
+                "title": "Discord AI Avatars စမ်းသပ်နေ",
+                "summary": "Discord က အသုံးပြုသူတွေအတွက် သူတို့ရဲ့ စရိုက်နဲ့ ကိုက်ညီမယ့် AI-generated avatars တွေကို စမ်းသပ်နေပါတယ်။ ဒါဟာ profile တွေကို ပိုမိုထူးခြားစေမှာဖြစ်ပါတယ်။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=800",
+                "created_at": "2026-01-10T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "discord",
+                    "ai",
+                    "avatar",
+                    "social"
+                ],
+                "sources": [
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_029",
+                "title": "Linux Kernel 6.13 RC1 ကြေညာ",
+                "summary": "Linux Kernel 6.13 ရဲ့ ပထမဆုံး release candidate ထွက်ပေါ်လာပါတယ်။ Intel နဲ့ AMD ရဲ့ နောက်ဆုံးထွက် CPUs တွေအတွက် support အပြည့်အဝ ပါဝင်လာပြီး filesystem performance တိုးတက်လာပါတယ်။",
+                "category": "linux",
+                "image": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=800",
+                "created_at": "2026-01-10T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "linux",
+                    "kernel",
+                    "opensource"
+                ],
+                "sources": [
+                    {
+                        "name": "Kernel.org",
+                        "url": "https://kernel.org",
+                        "icon": "https://www.kernel.org/theme/images/logos/favicon.png"
+                    }
+                ]
+            },
+            {
+                "id": "news_028",
+                "title": "Firefox 140 ထွက်ရှိ",
+                "summary": "Mozilla က Firefox 140 version ကို memory management ပိုမိုကောင်းမွန်တဲ့ features တွေနဲ့ ထုတ်ပေးလိုက်ပါတယ်။ Privacy ပိုင်းမှာလည်း tracker တွေကို ပိုမိုထိရောက်စွာ တားဆီးပေးနိုင်မှာပါ။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1614741480652-320c2b292ff8?w=800",
+                "created_at": "2026-01-09T17:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "firefox",
+                    "browser",
+                    "mozilla",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Mozilla",
+                        "url": "https://blog.mozilla.org",
+                        "icon": "https://www.mozilla.org/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_027",
+                "title": "Google Search AI Overviews အဆင့်မြှင့်တင်မှု",
+                "summary": "Google က Search ရလဒ်တွေမှာ AI Overview တွေကို ပိုမိုတိကျမြန်ဆန်အောင် အဆင့်မြှင့်တင်လိုက်ပါတယ်။ အခုအခါမှာ complex queries တွေကို ပိုမိုကောင်းမွန်စွာ ဖြေရှင်းပေးနိုင်ပြီဖြစ်ပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=800",
+                "created_at": "2026-01-09T10:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "google",
+                    "search",
+                    "ai",
+                    "update"
+                ],
+                "sources": [
+                    {
+                        "name": "Google Blog",
+                        "url": "https://blog.google",
+                        "icon": "https://www.google.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_026",
+                "title": "Samsung Rollable Tablet ပေါ်ထွက်လာနိုင်",
+                "summary": "Samsung က ခေါက်လို့ရရုံတင်မကဘဲ လိပ် (roll) လို့ရတဲ့ screen ပါဝင်တဲ့ tablet အသစ်ကို စမ်းသပ်နေပါတယ်။ ဒါဟာ tablet ဈေးကွက်မှာ နောက်ထပ် တော်လှန်ရေးတစ်ခု ဖြစ်လာနိုင်ပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1544244015-0cd4b3ff8f9d?w=800",
+                "created_at": "2026-01-08T15:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "samsung",
+                    "rollable",
+                    "tablet",
+                    "tech"
+                ],
+                "sources": [
+                    {
+                        "name": "SamMobile",
+                        "url": "https://sammobile.com",
+                        "icon": "https://www.sammobile.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_025",
+                "title": "CES 2026 ပွဲပြီးဆုံး",
+                "summary": "ယခုနှစ် CES ပွဲဟာ AI နဲ့ Sustainability ကို အလေးထားခဲ့တာတွေ့ရပါတယ်။ နည်းပညာကုမ္ပဏီပေါင်း ၄၀၀၀ ကျော် ပါဝင်ခဲ့ပြီး အနာဂတ်လူနေမှုဘဝအတွက် တီထွင်မှုများစွာကို တွေ့မြင်ခဲ့ရပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800",
+                "created_at": "2026-01-08T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "ces2026",
+                    "tech",
+                    "event",
+                    "wrapup"
+                ],
+                "sources": [
+                    {
+                        "name": "TechRadar",
+                        "url": "https://techradar.com",
+                        "icon": "https://www.techradar.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_024",
+                "title": "CES 2026: ASUS ROG NUC",
+                "summary": "ASUS က gaming PCs အသေးစားတွေဖြစ်တဲ့ ROG NUC series ကို specs အမြင့်ပိုင်းတွေနဲ့ ထပ်မံ အဆင့်မြှင့်တင်လိုက်ပါတယ်။ RTX 50 series GPUs တွေအထိ အသုံးပြုနိုင်မှာ ဖြစ်ပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=800",
+                "created_at": "2026-01-07T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "asus",
+                    "rog",
+                    "nuc",
+                    "mini-pc"
+                ],
+                "sources": [
+                    {
+                        "name": "Asus",
+                        "url": "https://rog.asus.com",
+                        "icon": "https://www.asus.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_023",
+                "title": "CES 2026: Razer Gaming Concept",
+                "summary": "Razer က အနာဂတ် gaming setup တွေမှာ သုံးမယ့် immersive haptic system ပါဝင်တဲ့ ကုလားထိုင်နဲ့ desk concept တစ်ခုကို ပြသခဲ့ပါတယ်။ ဂိမ်းထဲက အထိအတွေ့တွေကို တကယ့်ပြင်ပမှာ ခံစားနိုင်မှာပါ။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
+                "created_at": "2026-01-07T11:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "razer",
+                    "gaming",
+                    "ces2026",
+                    "haptics"
+                ],
+                "sources": [
+                    {
+                        "name": "PC Gamer",
+                        "url": "https://pcgamer.com",
+                        "icon": "https://www.pcgamer.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_022",
+                "title": "CES 2026: Samsung Jet Bot AI",
+                "summary": "Samsung က ပတ်ဝန်းကျင်ကို ပိုမိုတိကျစွာ နားလည်ပြီး အိမ်သန့်ရှင်းရေးလုပ်ပေးမယ့် Jet Bot AI robot အသစ်ကို ပြသခဲ့ပါတယ်။ အိမ်မွေးတိရစ္ဆာန်တွေကိုလည်း စောင့်ကြည့်ပေးနိုင်တဲ့ feature ပါဝင်ပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=800",
+                "created_at": "2026-01-06T19:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "samsung",
+                    "ai",
+                    "robotics",
+                    "smarthome"
+                ],
+                "sources": [
+                    {
+                        "name": "SamMobile",
+                        "url": "https://sammobile.com",
+                        "icon": "https://www.sammobile.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_021",
+                "title": "CES 2026: Sony Afeela Update",
+                "summary": "Sony နဲ့ Honda တို့ ပူးပေါင်းထုတ်လုပ်မယ့် Afeela လျှပ်စစ်ကားဟာ အခုအခါမှာ gaming performance အပြည့်အဝရရှိမယ့် ဖျော်ဖြေရေးစနစ်တွေ ပါဝင်လာပြီဖြစ်ကြောင်း ထုတ်ဖော်ပြသခဲ့ပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800",
+                "created_at": "2026-01-06T10:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "sony",
+                    "honda",
+                    "ev",
+                    "afeela"
+                ],
+                "sources": [
+                    {
+                        "name": "Engadget",
+                        "url": "https://engadget.com",
+                        "icon": "https://www.engadget.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_020",
+                "title": "CES 2026: Mercedes AI Cockpit",
+                "summary": "Mercedes က ကားမောင်းသူရဲ့ အလိုကို ကြိုတင်သိရှိပေးမယ့် AI-powered cockpit အသစ်ကို ပြသခဲ့ပါတယ်။ AI assistant က ကားအတွင်း အပူချိန်ကနေ လမ်းကြောင်းအထိ အကုန်လုံးကို စီမံပေးမှာပါ။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800",
+                "created_at": "2026-01-05T14:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "mercedes",
+                    "ai",
+                    "automotive",
+                    "ces2026"
+                ],
+                "sources": [
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_019",
+                "title": "CES 2026: LG OLED T ကို ကြေညာ",
+                "summary": "CES 2026 မှာ LG က သူတို့ရဲ့ ပထမဆုံး ဖောက်ထွင်းမြင်ရတဲ့ (Transparent) OLED TV ကို တရားဝင် ပြသလိုက်ပါတယ်။ ဒီ TV ဟာ အိမ်တွင်းအလှဆင်မှုနဲ့ နည်းပညာကို ပေါင်းစပ်ပေးထားတာဖြစ်ပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800",
+                "created_at": "2026-01-05T08:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "lg",
+                    "ces2026",
+                    "oled",
+                    "tv"
+                ],
+                "sources": [
+                    {
+                        "name": "CNet",
+                        "url": "https://cnet.com",
+                        "icon": "https://www.cnet.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_018",
+                "title": "Intel 16th Gen Core Specs များ",
+                "summary": "Intel ရဲ့ ၁၆ မျိုးဆက် Core processors တွေဟာ power efficiency ပိုင်းမှာ ၃၀ ရာခိုင်နှုန်းခန့် ပိုမိုတိုးတက်လာမှာ ဖြစ်ပါတယ်။ NPU စွမ်းဆောင်ရည်ကိုလည်း AI အလုပ်တွေအတွက် အထူးမြှင့်တင်ထားပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=800",
+                "created_at": "2026-01-04T18:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "intel",
+                    "cpu",
+                    "hardware",
+                    "ai"
+                ],
+                "sources": [
+                    {
+                        "name": "Tom's Hardware",
+                        "url": "https://tomshardware.com",
+                        "icon": "https://www.tomshardware.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_017",
+                "title": "Meta Smart Glasses ဘာသာပြန် feature လာပြီ",
+                "summary": "Meta ရဲ့ smart glasses တွေမှာ real-time ဘာသာပြန်ပေးတဲ့ feature ကို တရားဝင် ထည့်သွင်းလိုက်ပါပြီ။ စကားပြောနေစဉ်မှာပဲ မျက်မှန်ထဲကနေ ဘာသာပြန်စာသားတွေကို မြင်တွေ့နိုင်မှာ ဖြစ်ပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1591114901111-c918ee9163e7?w=800",
+                "created_at": "2026-01-04T12:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "meta",
+                    "glasses",
+                    "ai",
+                    "translation"
+                ],
+                "sources": [
+                    {
+                        "name": "Engadget",
+                        "url": "https://engadget.com",
+                        "icon": "https://www.engadget.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_016",
+                "title": "Android 16 Privacy Dashboard အသစ်",
+                "summary": "Google က Android 16 မှာ app တွေရဲ့ data အသုံးပြုမှုကို ပိုမိုတိကျစွာ စစ်ဆေးနိုင်တဲ့ privacy dashboard အသစ်ကို ထည့်သွင်းပေးသွားမှာပါ။ အသုံးပြုသူတွေအနေနဲ့ ဘယ် app က ဘယ်အချိန်မှာ data ယူနေလဲဆိုတာ ပိုသိသာလာမှာပါ။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=800",
+                "created_at": "2026-01-03T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "android",
+                    "google",
+                    "privacy",
+                    "security"
+                ],
+                "sources": [
+                    {
+                        "name": "Android Authority",
+                        "url": "https://androidauthority.com",
+                        "icon": "https://www.androidauthority.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_015",
+                "title": "Apple Vision Pro 2 Features များ",
+                "summary": "Apple ဟာ ဈေးနှုန်းပိုမိုသက်သာတဲ့ Vision Pro version သစ်ကို ထုတ်လုပ်ဖို့ ပြင်ဆင်နေပါတယ်။ ပိုမိုပေါ့ပါးတဲ့ ကိုယ်ထည်နဲ့ battery သက်တမ်း ပိုမိုကြာရှည်ခံတဲ့ feature တွေ ပါဝင်လာမယ်လို့ သတင်းထွက်နေပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=800",
+                "created_at": "2026-01-03T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "apple",
+                    "visionpro",
+                    "vr",
+                    "ar"
+                ],
+                "sources": [
+                    {
+                        "name": "9to5Mac",
+                        "url": "https://9to5mac.com",
+                        "icon": "https://9to5mac.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_014",
+                "title": "Windows 12 Taskbar Concept အသစ်",
+                "summary": "Microsoft က Windows 12 အတွက် floating taskbar design အသစ်ကို စမ်းသပ်နေတယ်လို့ concept တွေ ထွက်ပေါ်လာပါတယ်။ ဒီ design ဟာ macOS နဲ့ ပိုတူလာပြီး AI features တွေကို တိုက်ရိုက်အသုံးပြုနိုင်တဲ့ shortcut တွေ ပါဝင်လာမှာပါ။",
+                "category": "windows",
+                "image": "https://images.unsplash.com/photo-1624571409308-e2d574a24bbd?w=800",
+                "created_at": "2026-01-02T18:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "windows",
+                    "microsoft",
+                    "concept",
+                    "unreleased"
+                ],
+                "sources": [
+                    {
+                        "name": "Windows Central",
+                        "url": "https://windowscentral.com",
+                        "icon": "https://www.windowscentral.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_013",
+                "title": "Samsung Galaxy S26 Design ပေါက်ကြား",
+                "summary": "Samsung ရဲ့ နောက်ထွက်မယ့် Galaxy S26 series ဟာ ပိုမိုပါးလွှာတဲ့ design နဲ့ ကင်မရာပိုင်းမှာ သိသိသာသာ ပြောင်းလဲမှုတွေ ပါဝင်လာမှာဖြစ်ပါတယ်။ အထူးသဖြင့် Ultra model မှာ optical zoom စွမ်းရည် ပိုမိုကောင်းမွန်လာမယ်လို့ သိရပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800",
+                "created_at": "2026-01-02T10:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "samsung",
+                    "galaxy",
+                    "s26",
+                    "leak"
+                ],
+                "sources": [
+                    {
+                        "name": "SamMobile",
+                        "url": "https://sammobile.com",
+                        "icon": "https://www.sammobile.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_012",
+                "title": "OpenAI Model အသစ် ထွက်ပေါ်လာနိုင်ခြေ",
+                "summary": "OpenAI က GPT-5 ဒါမှမဟုတ် ပိုမိုအားကောင်းတဲ့ AI model အသစ်တစ်ခုကို ယခုနှစ်ဆန်းပိုင်းမှာ မိတ်ဆက်ဖို့ ပြင်ဆင်နေတယ်လို့ သတင်းတွေ ထွက်ပေါ်နေပါတယ်။ ဒီ model ဟာ reasoning performance မှာ သိသိသာသာ တိုးတက်လာမယ်လို့ ဆိုပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+                "created_at": "2026-01-01T15:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "openai",
+                    "ai",
+                    "llm",
+                    "gpt"
+                ],
+                "sources": [
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_011",
+                "title": "2026 နည်းပညာ ခန့်မှန်းချက်များ",
+                "summary": "၂၀၂၆ ခုနှစ်မှာ AI နည်းပညာဟာ ပိုမိုရင့်ကျက်လာပြီး နေ့စဉ်လူနေမှုဘဝထဲကို ပိုမိုနက်ရှိုင်းစွာ ရောက်ရှိလာမှာဖြစ်ပါတယ်။ အထူးသဖြင့် Autonomous agents တွေနဲ့ Generative AI video တွေဟာ လူသုံးအများဆုံး ဖြစ်လာမယ်လို့ ကျွမ်းကျင်သူတွေက ခန့်မှန်းထားပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+                "created_at": "2026-01-01T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "tech",
+                    "ai",
+                    "2026",
+                    "prediction"
+                ],
+                "sources": [
+                    {
+                        "name": "TechCrunch",
+                        "url": "https://techcrunch.com",
+                        "icon": "https://techcrunch.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_001",
+                "title": "iOS 18.2 မှာ ChatGPT Integration ပါလာပြီ",
+                "summary": "Apple က iOS 18.2 update မှာ ChatGPT integration ကို တရားဝင် ထည့်သွင်းလိုက်ပါပြီ။ Siri ကနေ တိုက်ရိုက် ChatGPT ကို မေးမြန်းနိုင်မှာ ဖြစ်ပြီး Apple Intelligence feature တွေနဲ့ ပေါင်းစပ်ထားပါတယ်။ Writing Tools၊ Image Playground နဲ့ Genmoji တို့မှာလည်း AI စွမ်းရည်တွေ ပိုကောင်းလာပါတယ်။ ဒီ update ကို iPhone 15 Pro နဲ့ အထက် models တွေမှာ အသုံးပြုနိုင်မှာ ဖြစ်ပါတယ်။ OpenAI နဲ့ Apple ရဲ့ ပူးပေါင်းဆောင်ရွက်မှုက AI assistant market မှာ အရေးပါတဲ့ ခြေလှမ်းတစ်ခု ဖြစ်ပါတယ်။",
+                "category": "ios",
+                "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800",
+                "created_at": "2025-12-25T00:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "apple",
+                    "ios",
+                    "ai",
+                    "chatgpt",
+                    "siri"
+                ],
+                "sources": [
+                    {
+                        "name": "Apple Newsroom",
+                        "url": "https://apple.com/newsroom",
+                        "icon": "https://www.apple.com/favicon.ico"
+                    },
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    },
+                    {
+                        "name": "9to5Mac",
+                        "url": "https://9to5mac.com",
+                        "icon": "https://9to5mac.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_002",
+                "title": "Android 15 QPR2 Beta 2 ထွက်ရှိ",
+                "summary": "Google က Android 15 QPR2 Beta 2 ကို Pixel devices တွေအတွက် ထုတ်ပေးလိုက်ပါပြီ။ ဒီ update မှာ Desktop Windowing mode အသစ်၊ Notification cooldown feature နဲ့ battery optimization တွေ ပါဝင်ပါတယ်။ Live Updates API အသစ်ကြောင့် Uber၊ Food delivery app တွေမှာ real-time tracking ပိုကောင်းလာမှာပါ။ Pixel 6 နဲ့ အထက် devices တွေမှာ စမ်းသပ်နိုင်ပြီး stable version ကိုတော့ 2025 March လောက်မှာ ထုတ်မယ်လို့ ခန့်မှန်းရပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?w=800",
+                "created_at": "2025-12-24T18:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "android",
+                    "google",
+                    "pixel",
+                    "beta"
+                ],
+                "sources": [
+                    {
+                        "name": "Android Blog",
+                        "url": "https://android-developers.googleblog.com",
+                        "icon": "https://www.android.com/favicon.ico"
+                    },
+                    {
+                        "name": "Android Authority",
+                        "url": "https://androidauthority.com",
+                        "icon": "https://www.androidauthority.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_003",
+                "title": "Windows 11 24H2 Update အသစ်များ",
+                "summary": "Microsoft က Windows 11 24H2 အတွက် December cumulative update ကို ထုတ်ပေးလိုက်ပါပြီ။ ဒီ update မှာ Copilot AI ရဲ့ စွမ်းဆောင်ရည် မြှင့်တင်မှု၊ File Explorer tab improvements နဲ့ Start Menu customization options အသစ်တွေ ပါဝင်ပါတယ်။ Security patches ၁၅ ခုနဲ့ bug fixes ၃၀ ကျော်လည်း ပါဝင်ပါတယ်။ Arm-based PCs အတွက်လည်း compatibility ပိုကောင်းလာပြီး x64 emulation performance မြင့်တက်လာပါတယ်။ Settings app ကနေ Windows Update သွားပြီး download လုပ်နိုင်ပါပြီ။",
+                "category": "windows",
+                "image": "https://images.unsplash.com/photo-1624571409308-e2d574a24bbd?w=800",
+                "created_at": "2025-12-24T15:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "windows",
+                    "microsoft",
+                    "update",
+                    "copilot"
+                ],
+                "sources": [
+                    {
+                        "name": "Microsoft",
+                        "url": "https://blogs.microsoft.com",
+                        "icon": "https://www.microsoft.com/favicon.ico"
+                    },
+                    {
+                        "name": "Windows Central",
+                        "url": "https://windowscentral.com",
+                        "icon": "https://www.windowscentral.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_004",
+                "title": "Samsung One UI 7 Beta စတင်",
+                "summary": "Samsung က One UI 7 Beta program ကို Galaxy S24 series အတွက် စတင်လိုက်ပါပြီ။ Android 15 အခြေခံထားတဲ့ ဒီ update မှာ UI design အသစ်၊ Now Bar feature၊ improved animations နဲ့ Galaxy AI features အသစ်တွေ ပါဝင်ပါတယ်။ Lock screen customization ပိုပြီး flexible ဖြစ်လာပြီး widgets တွေကို ကြိုက်သလို နေရာချနိုင်ပါပြီ။ Camera app မှာလည်း AI-powered editing tools အသစ်တွေ ထပ်ပါလာပါတယ်။ Stable version ကိုတော့ Galaxy S25 series နဲ့အတူ January 2025 မှာ ထုတ်မယ်လို့ သိရပါတယ်။",
+                "category": "android",
+                "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800",
+                "created_at": "2025-12-24T12:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "samsung",
+                    "oneui",
+                    "android",
+                    "galaxy"
+                ],
+                "sources": [
+                    {
+                        "name": "Samsung",
+                        "url": "https://news.samsung.com",
+                        "icon": "https://www.samsung.com/favicon.ico"
+                    },
+                    {
+                        "name": "SamMobile",
+                        "url": "https://sammobile.com",
+                        "icon": "https://www.sammobile.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_005",
+                "title": "Chrome 131 Security Update အရေးကြီး",
+                "summary": "Google Chrome 131 version မှာ critical security vulnerabilities ၅ ခုကို fix လုပ်ထားပါတယ်။ အထူးသဖြင့် V8 JavaScript engine မှာ တွေ့ရှိတဲ့ zero-day vulnerability ကို ပြင်ဆင်ထားပြီး ချက်ချင်း update လုပ်ဖို့ အကြံပြုထားပါတယ်။ ဒီ vulnerability ကို တိုက်ခိုက်သူတွေက actively exploit လုပ်နေတယ်လို့ Google က အတည်ပြုထားပါတယ်။ Chrome menu > Help > About Chrome သွားပြီး update ရှိမရှိ စစ်ဆေးနိုင်ပါတယ်။ Edge၊ Brave စတဲ့ Chromium-based browsers တွေလည်း update လုပ်ဖို့ လိုပါတယ်။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=800",
+                "created_at": "2025-12-24T09:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "chrome",
+                    "google",
+                    "security",
+                    "browser"
+                ],
+                "sources": [
+                    {
+                        "name": "Google Chrome",
+                        "url": "https://blog.google/chrome",
+                        "icon": "https://www.google.com/chrome/static/images/favicons/favicon-32x32.png"
+                    },
+                    {
+                        "name": "BleepingPC",
+                        "url": "https://bleepingcomputer.com",
+                        "icon": "https://www.bleepingcomputer.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_006",
+                "title": "Linux Kernel 6.12 LTS ကြေညာ",
+                "summary": "Linus Torvalds က Linux Kernel 6.12 ကို Long Term Support (LTS) version အဖြစ် တရားဝင် ကြေညာလိုက်ပါပြီ။ ဒီ version မှာ real-time scheduling support၊ improved Rust integration နဲ့ AMD/Intel processors အတွက် performance optimizations တွေ ပါဝင်ပါတယ်။ Bcachefs filesystem လည်း stable ဖြစ်လာပြီး production-ready ဖြစ်ပါပြီ။ LTS support ကို 2028 ခုနှစ်အထိ ပေးသွားမှာဖြစ်ပြီး enterprise Linux distributions တွေမှာ မကြာခင် ရောက်လာမှာပါ။ Ubuntu 25.04 နဲ့ Fedora 42 မှာ ဒီ kernel ကို သုံးထားမှာပါ။",
+                "category": "linux",
+                "image": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=800",
+                "created_at": "2025-12-23T20:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "linux",
+                    "kernel",
+                    "opensource",
+                    "lts"
+                ],
+                "sources": [
+                    {
+                        "name": "Kernel.org",
+                        "url": "https://kernel.org",
+                        "icon": "https://www.kernel.org/theme/images/logos/favicon.png"
+                    },
+                    {
+                        "name": "Phoronix",
+                        "url": "https://phoronix.com",
+                        "icon": "https://www.phoronix.com/favicon.ico"
+                    },
+                    {
+                        "name": "LWN.net",
+                        "url": "https://lwn.net",
+                        "icon": "https://lwn.net/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_007",
+                "title": "WhatsApp မှာ AI Chatbot Feature လာပြီ",
+                "summary": "Meta က WhatsApp မှာ Meta AI chatbot ကို တရားဝင် ထည့်သွင်းလိုက်ပါပြီ။ Chat screen အပေါ်မှာ ရှိတဲ့ Meta AI icon ကို နှိပ်ပြီး မေးခွန်းတွေ မေးနိုင်၊ ပုံတွေ generate နိုင်ပါပြီ။ Group chats ထဲမှာလည်း @MetaAI လို့ tag လုပ်ပြီး သုံးနိုင်ပါတယ်။ Llama 3 model ကို အခြေခံထားပြီး မြန်မာဘာသာ အပါအဝင် ဘာသာစကား ၁၀၀ ကျော် support လုပ်ပါတယ်။ ဒီ feature ကို ကမ္ဘာတစ်ဝှမ်း gradually roll out လုပ်နေပြီး မြန်မာနိုင်ငံမှာလည်း မကြာခင် ရရှိမှာပါ။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=800",
+                "created_at": "2025-12-23T16:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "whatsapp",
+                    "meta",
+                    "ai",
+                    "chatbot"
+                ],
+                "sources": [
+                    {
+                        "name": "Meta",
+                        "url": "https://about.meta.com/news",
+                        "icon": "https://www.meta.com/favicon.ico"
+                    },
+                    {
+                        "name": "TechCrunch",
+                        "url": "https://techcrunch.com",
+                        "icon": "https://techcrunch.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_008",
+                "title": "NVIDIA RTX 5090 Specs ပေါက်ကြား",
+                "summary": "NVIDIA ရဲ့ နောက်မျိုးဆက် flagship GPU RTX 5090 ရဲ့ specifications တွေ leak ဖြစ်သွားပါပြီ။ Blackwell architecture အသစ်နဲ့ CUDA cores 21,760 ခု၊ GDDR7 memory 32GB နဲ့ 512-bit memory bus ပါဝင်မယ်လို့ သိရပါတယ်။ DLSS 4 technology အသစ်နဲ့ frame generation ပိုကောင်းလာမှာပါ။ Power consumption ကတော့ 600W လောက် ရှိမယ်လို့ ခန့်မှန်းရပြီး 1000W+ PSU လိုအပ်ပါလိမ့်မယ်။ CES 2025 မှာ တရားဝင် ကြေညာပြီး January နှောင်းပိုင်းမှာ ရောင်းမယ်လို့ သတင်းထွက်ပါတယ်။",
+                "category": "hardware",
+                "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=800",
+                "created_at": "2025-12-23T12:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "nvidia",
+                    "gpu",
+                    "rtx",
+                    "hardware",
+                    "gaming"
+                ],
+                "sources": [
+                    {
+                        "name": "VideoCardz",
+                        "url": "https://videocardz.com",
+                        "icon": "https://videocardz.com/favicon.ico"
+                    },
+                    {
+                        "name": "Tom's Hardware",
+                        "url": "https://tomshardware.com",
+                        "icon": "https://www.tomshardware.com/favicon.ico"
+                    },
+                    {
+                        "name": "WCCFTech",
+                        "url": "https://wccftech.com",
+                        "icon": "https://wccftech.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_009",
+                "title": "VS Code December 2024 Update",
+                "summary": "Microsoft က Visual Studio Code version 1.96 ကို ထုတ်ပေးလိုက်ပါပြီ။ ဒီ update မှာ GitHub Copilot integration ပိုကောင်းလာပြီး inline chat feature အသစ်၊ multi-file editing support နဲ့ code explanation improvements တွေ ပါဝင်ပါတယ်။ Terminal မှာ shell integration ပိုကောင်းလာပြီး command history navigation လွယ်ကူလာပါတယ်။ Python နဲ့ JavaScript developers အတွက် debugging experience လည်း မြှင့်တင်ထားပါတယ်။ Remote Development extensions တွေမှာလည်း performance improvements ရှိပါတယ်။ Settings > Update ကနေ update လုပ်နိုင်ပါပြီ။",
+                "category": "apps",
+                "image": "https://images.unsplash.com/photo-1617042375876-a13e36732a04?w=800",
+                "created_at": "2025-12-22T18:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "vscode",
+                    "microsoft",
+                    "developer",
+                    "ide"
+                ],
+                "sources": [
+                    {
+                        "name": "VS Code Blog",
+                        "url": "https://code.visualstudio.com/blogs",
+                        "icon": "https://code.visualstudio.com/favicon.ico"
+                    },
+                    {
+                        "name": "GitHub Blog",
+                        "url": "https://github.blog",
+                        "icon": "https://github.com/favicon.ico"
+                    }
+                ]
+            },
+            {
+                "id": "news_010",
+                "title": "Gemini 2.0 Flash စွမ်းဆောင်ရည်များ",
+                "summary": "Google DeepMind က Gemini 2.0 Flash model ကို ထုတ်ပြန်လိုက်ပါပြီ။ ယခင် version ထက် 2 ဆ မြန်ပြီး multimodal capabilities ပိုကောင်းလာပါတယ်။ Native image generation၊ text-to-speech နဲ့ native tool use support တွေ ပါဝင်ပါတယ်။ 1 million token context window နဲ့ long document processing ပိုကောင်းလာပါတယ်။ Google AI Studio နဲ့ Vertex AI မှာ အခမဲ့ စမ်းသပ်နိုင်ပြီး API ကတော့ production အတွက် အသုံးပြုနိုင်ပါပြီ။ Gemini app မှာလည်း gradually roll out လုပ်နေပါတယ်။ Agentic AI experiences အတွက် အထူး optimize လုပ်ထားတယ်လို့ Google က ပြောပါတယ်။",
+                "category": "ai",
+                "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+                "created_at": "2025-12-22T14:00:00Z",
+                "read_time": 1,
+                "tags": [
+                    "google",
+                    "gemini",
+                    "ai",
+                    "deepmind"
+                ],
+                "sources": [
+                    {
+                        "name": "DeepMind",
+                        "url": "https://deepmind.google",
+                        "icon": "https://deepmind.google/favicon.ico"
+                    },
+                    {
+                        "name": "Google Blog",
+                        "url": "https://blog.google",
+                        "icon": "https://www.google.com/favicon.ico"
+                    },
+                    {
+                        "name": "The Verge",
+                        "url": "https://theverge.com",
+                        "icon": "https://www.theverge.com/favicon.ico"
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 48,
+        "page": 1,
+        "per_page": 10,
+        "last_updated": "2026-01-19T15:48:44Z"
+    },
+    "categories": [
+        {
+            "id": "all",
+            "name": "အားလုံး",
+            "icon": "apps"
+        },
+        {
+            "id": "android",
+            "name": "Android",
+            "icon": "android"
+        },
+        {
+            "id": "ios",
+            "name": "iOS",
+            "icon": "phone_iphone"
+        },
+        {
+            "id": "windows",
+            "name": "Windows",
+            "icon": "desktop_windows"
+        },
+        {
+            "id": "linux",
+            "name": "Linux",
+            "icon": "terminal"
+        },
+        {
+            "id": "apps",
+            "name": "Apps",
+            "icon": "grid_view"
+        },
+        {
+            "id": "hardware",
+            "name": "Hardware",
+            "icon": "memory"
+        },
+        {
+            "id": "ai",
+            "name": "AI",
+            "icon": "psychology"
+        }
+    ]
+}
