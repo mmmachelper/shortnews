@@ -24,7 +24,7 @@
             "content_padding":  1.0,
             "nav_height":       1.0,
             "action_radius":    1.0,
-            "source_opacity":    1.0,
+            "source_opacity":    0,
             "badge_margin":      1.0,
             "meta_line_height":  1.0
         }
