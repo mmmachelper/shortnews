@@ -3,30 +3,30 @@
         "show_intro": true,
         "intro_screens": [
             {
-                "title": "M9",
-                "description": "စတင်နိုင်ပါသည်။",
-                "icon": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg"
+                "title": "M9 Lite",
+                "description": "IT Short News။",
+                "icon": "https://play-lh.googleusercontent.com/71WgK11iD26nnv3m6umT3KzG21rUuRfUxFISWidDg3KrQ1QKxXM1gqXful9BTusogocPJqkptXwNV9oz1nyAIQ=w240-h480-rw"
             },
             {
                 "title": "Easy to use",
-                "description": "နံပါတ်တစ်ယုံကြည်စိတ်ချရဆုံးဝန်ဆောင်မှု",
-                "icon": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg"
+                "description": "Ai Latest News",
+                "icon": "https://play-lh.googleusercontent.com/71WgK11iD26nnv3m6umT3KzG21rUuRfUxFISWidDg3KrQ1QKxXM1gqXful9BTusogocPJqkptXwNV9oz1nyAIQ=w240-h480-rw"
             },
             {
-                "title": "မူရင်းအရင်းအမြစ်များ",
-                "description": "မူလလက်ဟောင်း အမ်နိုင်း",
-                "icon": "https://i.pinimg.com/736x/27/ee/43/27ee435e3dff8449ef0585c11d5f8425.jpg"
+                "title": "Original Source",
+                "description": "Original Source",
+                "icon": "https://play-lh.googleusercontent.com/71WgK11iD26nnv3m6umT3KzG21rUuRfUxFISWidDg3KrQ1QKxXM1gqXful9BTusogocPJqkptXwNV9oz1nyAIQ=w240-h480-rw"
             }
         ],
         "rendering": {
-            "layout_version":    0,
-            "header_elevation":  0,
-            "content_padding":  0,
-            "nav_height":       0,
-            "action_radius":    0,
+            "layout_version":    1.0,
+            "header_elevation":  1.0,
+            "content_padding":  1.0,
+            "nav_height":       1.0,
+            "action_radius":    1.0,
             "source_opacity":    1.0,
-            "badge_margin":      0,
-            "meta_line_height":  0
+            "badge_margin":      1.0,
+            "meta_line_height":  1.0
         }
     },
     "status": "success",
@@ -34,10 +34,10 @@
         "news": [
             {
                 "id": "news_061",
-                "title": "AD",
-                "summary": "Free10000။",
+                "title": "Anthropic Claude 4 Beta စတင်",
+                "summary": "Anthropic က Claude 4 model ရဲ့ beta version ကို စတင်လိုက်ပါတယ်။ ဒီ model ဟာ coding ability မှာ အထူးတိုးတက်လာပြီး 200K context window ပါဝင်ပါတယ်။။",
                 "category": "M9",
-                "image": "https://raw.githubusercontent.com/mmmachelper/shortnews/refs/heads/main/video.mp4",
+                "image": "https://yangon.109110.com/m9/videonews/output.m3u8",
                 "created_at": "2026-01-27T10:00:00Z",
                 "read_time": 1,
                 "tags": [
