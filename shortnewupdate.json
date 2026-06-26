@@ -19,14 +19,14 @@
             }
         ],
         "rendering": {
-           "layout_version":    1.0,
-            "header_elevation":  1.0,
-            "content_padding":  1.0,
-            "nav_height":       1.0,
-            "action_radius":    1.0,
-            "source_opacity":    0,
-            "badge_margin":      1.0,
-            "meta_line_height":  1.0
+           "layout_version":    0,
+            "header_elevation":  0,
+            "content_padding":  0,
+            "nav_height":       0,
+            "action_radius":    0,
+            "source_opacity":    1.0,
+            "badge_margin":      0,
+            "meta_line_height":  0
         }
     },
     "status": "success",
@@ -49,8 +49,8 @@
                 "sources": [
                     {
                         "name": "Download",
-                        "url": "https://google.com",
-                        "icon": "https://gogole.com"
+                        "url": "https://play.google.com/store/apps/details?id=com.buffalo.fungames&pcampaignid=web_share",
+                        "icon": "https://play-lh.googleusercontent.com/G3EHH-nB9MS6cbdUVy9JsHDLk10NWToetILkFpROgvg6thGeLNgVGpOjgO2sdBiV1zbYXZrnpXiugMrbLGdS=w480-h960-rw"
                     }
                 ]
             },
