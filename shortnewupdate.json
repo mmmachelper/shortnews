@@ -21,7 +21,7 @@
         "rendering": {
            "layout_version":    0,
             "header_elevation":  0,
-            "content_padding":  1.0,
+            "content_padding":  0,
             "nav_height":       0,
             "action_radius":    0,
             "source_opacity":    1.0,
