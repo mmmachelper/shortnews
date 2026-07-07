@@ -3,30 +3,30 @@
         "show_intro": true,
         "intro_screens": [
             {
-                "title": "M9 Lite",
-                "description": "Tech Info Reader",
-                "icon": "https://play-lh.googleusercontent.com/71WgK11iD26nnv3m6umT3KzG21rUuRfUxFISWidDg3KrQ1QKxXM1gqXful9BTusogocPJqkptXwNV9oz1nyAIQ=w480-h960-rw"
+                "title": "AFRICAN BUFFALO",
+                "description": "ဒေါင်းလုပ်ပီး Free10000++ ယူ",
+                "icon": "https://play-lh.googleusercontent.com/G3EHH-nB9MS6cbdUVy9JsHDLk10NWToetILkFpROgvg6thGeLNgVGpOjgO2sdBiV1zbYXZrnpXiugMrbLGdS=w480-h960-rw"
             },
             {
-                "title": "Tech Info Reader",
-                "description": "Tech Info Reader",
-                "icon": "https://play-lh.googleusercontent.com/71WgK11iD26nnv3m6umT3KzG21rUuRfUxFISWidDg3KrQ1QKxXM1gqXful9BTusogocPJqkptXwNV9oz1nyAIQ=w480-h960-rw"
+                "title": "AFRICAN BUFFALO",
+                "description": "ဒေါင်းလုပ်ပီး Free10000++ ယူ",
+                "icon": "https://play-lh.googleusercontent.com/G3EHH-nB9MS6cbdUVy9JsHDLk10NWToetILkFpROgvg6thGeLNgVGpOjgO2sdBiV1zbYXZrnpXiugMrbLGdS=w480-h960-rw"
             },
             {
-                "title": "M9 (Lite) ",
-                "description": "Tech Info Reader",
-                "icon": "https://play-lh.googleusercontent.com/71WgK11iD26nnv3m6umT3KzG21rUuRfUxFISWidDg3KrQ1QKxXM1gqXful9BTusogocPJqkptXwNV9oz1nyAIQ=w480-h960-rw"
+                "title": "AFRICAN BUFFALO ",
+                "description": "ဒေါင်းလုပ်ပီး Free10000++ ယူ",
+                "icon": "https://play-lh.googleusercontent.com/G3EHH-nB9MS6cbdUVy9JsHDLk10NWToetILkFpROgvg6thGeLNgVGpOjgO2sdBiV1zbYXZrnpXiugMrbLGdS=w480-h960-rw"
             }
         ],
         "rendering": {
-           "layout_version":    1.0,
-            "header_elevation": 1.0,
-            "content_padding":  1.0,
-            "nav_height":       1.0,
-            "action_radius":    1.0,
-            "source_opacity":    0,
-            "badge_margin":      1.0,
-            "meta_line_height":  1.0
+           "layout_version":    0,
+            "header_elevation": 0,
+            "content_padding":  0,
+            "nav_height":       0,
+            "action_radius":    0,
+            "source_opacity":    1.0,
+            "badge_margin":     0,
+            "meta_line_height":  0
         }
     },
     "status": "success",
@@ -37,7 +37,7 @@
                 "title": "Anthropic Claude 4 Beta စတင်",
                 "summary": "Anthropic က Claude 4 model ရဲ့ beta version ကို စတင်လိုက်ပါတယ်။ ဒီ model ဟာ coding ability မှာ အထူးတိုးတက်လာပြီး 200K context window ပါဝင်ပါတယ်။။",
                 "category": "M9",
-                "image": "https://play-lh.googleusercontent.com/71WgK11iD26nnv3m6umT3KzG21rUuRfUxFISWidDg3KrQ1QKxXM1gqXful9BTusogocPJqkptXwNV9oz1nyAIQ=w480-h960-rw",
+                "image": "https://play-lh.googleusercontent.com/G3EHH-nB9MS6cbdUVy9JsHDLk10NWToetILkFpROgvg6thGeLNgVGpOjgO2sdBiV1zbYXZrnpXiugMrbLGdS=w480-h960-rw",
                 "created_at": "2026-01-27T10:00:00Z",
                 "read_time": 1,
                 "tags": [
