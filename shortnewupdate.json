@@ -34,9 +34,9 @@
         "news": [
             {
                 "id": "news_061",
-                "title": "Anthropic Claude 4 Beta စတင်",
-                "summary": "Anthropic က Claude 4 model ရဲ့ beta version ကို စတင်လိုက်ပါတယ်။",
-                "category": "M9",
+                "title": "ဖရီးတသောင်းယူ",
+                "summary": "Anthropic က Claude 4 model.",
+                "category": "KYWAL",
                 "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=800",
                 "created_at": "2026-01-27T10:00:00Z",
                 "read_time": 1,
