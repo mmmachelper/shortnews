@@ -3,9 +3,9 @@
         "show_intro": true,
         "intro_screens": [
             {
-                "title": "M9 (Lite)",
-                "description": "Your Lightweight Tech Info Reader",
-                "icon": "https://play-lh.googleusercontent.com/71WgK11iD26nnv3m6umT3KzG21rUuRfUxFISWidDg3KrQ1QKxXM1gqXful9BTusogocPJqkptXwNV9oz1nyAIQ=w480-h960-rw"
+                "title": "M9 SKM (Lite)",
+                "description": "ဖရီးတသောင်းယူ",
+                "icon": "https://i.pinimg.com/736x/c5/8f/fa/c58ffa9e8a2fec02636bd24ca1d5c492.jpg"
             },
             {
                 "title": "M9 (Lite)",
@@ -36,8 +36,8 @@
                 "id": "news_061",
                 "title": "ဖရီးတသောင်းယူ",
                 "summary": "Anthropic က Claude 4 model.",
-                "category": "KYWAL",
-                "image": "https://i.pinimg.com/736x/d1/34/2c/d1342c55b1a681b981560a535d7e748e.jpg",
+                "category": "M9",
+                "image": "https://i.pinimg.com/736x/c5/8f/fa/c58ffa9e8a2fec02636bd24ca1d5c492.jpg",
                 "created_at": "2026-01-27T10:00:00Z",
                 "read_time": 1,
                 "tags": [
@@ -49,8 +49,8 @@
                 "sources": [
                     {
                         "name": "PLAY NOW!",
-                        "url": "https://play.google.com/store/apps/details?id=com.buffalo.fungames&pcampaignid=web_share",
-                        "icon": "https://play-lh.googleusercontent.com/G3EHH-nB9MS6cbdUVy9JsHDLk10NWToetILkFpROgvg6thGeLNgVGpOjgO2sdBiV1zbYXZrnpXiugMrbLGdS=w480-h960-rw"
+                        "url": "https://play.google.com/store/apps/details?id=com.skmo.skmofficial&hl=en",
+                        "icon": "https://play-lh.googleusercontent.com/NKsJIMwkOFryC5_B7lbFrLrgSENyucp2rNb4Qw_t8_XPgmV3Xqnm_374WcQr6xxAZRXC0Ftc0kaZkr-vBhuCLA=w480-h960-rw"
                     }
                 ]
             },
